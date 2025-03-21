@@ -15,6 +15,10 @@ Hey there! 👋 I’m a Full Stack Developer who loves crafting sleek, high-perf
 
 ![Most_Languages_Used](https://github-readme-stats.vercel.app/api/top-langs/?username=MonishaGGowda&layout=compact&theme=default)
 
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MonishaGGowda&theme=onedark)
+
 💡 Always experimenting, always learning, and always excited to build something exciting!
 
 Let’s connect and build the future together! 
